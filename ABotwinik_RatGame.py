@@ -1,3 +1,5 @@
+'''Made for Writing for Interactive Media by Anne Botwinik using Python.'''
+
 letter = False
 cheese = 0
 cheeseEat = 0
